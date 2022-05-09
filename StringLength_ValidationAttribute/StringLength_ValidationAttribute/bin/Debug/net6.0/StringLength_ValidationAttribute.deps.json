@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StringLength_ValidationAttribute/1.0.0": {
+        "runtime": {
+          "StringLength_ValidationAttribute.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringLength_ValidationAttribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
