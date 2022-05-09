@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Range_ValidationAttribute", "Range_ValidationAttribute\Range_ValidationAttribute.csproj", "{9E61C0EC-40C9-47C7-9FC1-FB20A346A7D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E61C0EC-40C9-47C7-9FC1-FB20A346A7D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E61C0EC-40C9-47C7-9FC1-FB20A346A7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E61C0EC-40C9-47C7-9FC1-FB20A346A7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E61C0EC-40C9-47C7-9FC1-FB20A346A7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {496F0BD3-B90F-4FCF-B46D-711E2F93D79C}
+	EndGlobalSection
+EndGlobal
