@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URL_MaxlengthMinlength_ValidationAttribute", "URL_MaxlengthMinlength_ValidationAttribute\URL_MaxlengthMinlength_ValidationAttribute.csproj", "{5BEF2F43-BDC9-4271-861D-29F6357D0E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BEF2F43-BDC9-4271-861D-29F6357D0E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEF2F43-BDC9-4271-861D-29F6357D0E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEF2F43-BDC9-4271-861D-29F6357D0E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEF2F43-BDC9-4271-861D-29F6357D0E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83A5A01A-66FC-4EA7-8D8F-F5666A3F7CFE}
+	EndGlobalSection
+EndGlobal
