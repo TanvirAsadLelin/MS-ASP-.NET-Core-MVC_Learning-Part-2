@@ -1,7 +1,7 @@
-﻿using EmailAddress_ValidationAttribute.Models;
+﻿using Compare_ValidationAttribute.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace EmailAddress_ValidationAttribute.Controllers
+namespace Compare_ValidationAttribute.Controllers
 {
     [Route("[controller]")]
     public class HomeController : Controller
@@ -14,13 +14,12 @@ namespace EmailAddress_ValidationAttribute.Controllers
             return View();
         }
 
-
         [HttpPost]
         [Route("[action]")]
         public IActionResult Index(Employee e)
         {
             return View();
-            
+
         }
     }
 }

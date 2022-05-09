@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Compare_ValidationAttribute.Models.Employee
+@{
+     Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4 mx-auto">
+            <h2 class="page-header text-center">Email address validation</h2>
+            <form asp-controller="Home" asp-action="Index" method="post">
+            <br />
+            <label asp-for="Password"></label>
+            <br />
+            <input asp-for="Password" class="form-control"/>
+            <span style="color:red;" asp-validation-for="Password"></span>
+            <br />
+            <label asp-for="ConfirmPassword"></label>
+            <br />
+            <input asp-for="ConfirmPassword" class="form-control"/>
+            <span style="color:red;" asp-validation-for="ConfirmPassword"></span>
+            <br />
+             <input type="submit" value="Submit" class="btn btn-primary"/>
+        </form>
+        </div>
+
+    </div>
+
+</div>
